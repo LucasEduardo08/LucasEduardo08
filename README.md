@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá! ✌️ Eu sou Lucas Eduardo
 
-<!--
-**LucasEduardo08/LucasEduardo08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Eu atualmente estou realizando um projeto na universidade em que estudo onde utilizo séries temporais para prever os preços das ações no mercado financeiro.
+- 🌱 Eu estou atualmente estudando ferramentas de Machine Learning e Deep Learning
+- 😄 Pronouns:  ele/ dele
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/LucasEduardo08?tab=repositories">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LucasEduardo08&show_icons=true&theme=dark&include_all_commits=true" />
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEduardo08&layout=compact&langs_count=16&theme=dark" />
+</div>
+<div style="display : inline_block"><br>
+  <img align="center" alt="Lucas-Jn" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img align="center" alt="Lucas-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Lucas-R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <img align="center" alt="Lucas-Pg" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+</div>
