@@ -1,8 +1,8 @@
-### Olá! ✌️ Eu sou Lucas Eduardo
+### Olá! ✌️ Sou Lucas Eduardo
 
-- 🔭 Eu atualmente estou realizando um projeto na universidade em que estudo onde utilizo séries temporais para prever os preços das ações no mercado financeiro.
-- 🌱 Eu estou atualmente estudando ferramentas de Machine Learning e Deep Learning
-- 😄 Pronouns:  ele/ dele
+- 🔭 Atualmente estou pondo em prática um projeto pela universidade em que utilizo séries temporais com o objetivo de prever os preços das ações do mercado financeiro.
+- 🌱 As ferramentas em processo de estudo que fazem parte das áreas de Machine Learning e Deep Learning.
+- 😄 Pronouns:  ele/ dele.
 
 <div>
   <a href="https://github.com/LucasEduardo08?tab=repositories">
