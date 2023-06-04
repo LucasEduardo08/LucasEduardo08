@@ -1,4 +1,4 @@
-### Olá! ✌️ Sou Lucas Eduardo
+### Olá! ✌️ Sou Lucas Teles
 
 - 🔭 Atualmente estou pondo em prática um projeto pela universidade em que utilizo séries temporais com o objetivo de prever os preços das ações do mercado financeiro.
 - 🌱 As ferramentas em processo de estudo que fazem parte das áreas de Machine Learning e Deep Learning.
