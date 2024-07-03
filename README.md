@@ -1,7 +1,8 @@
 ### Olá! ✌️ Sou Lucas Teles
 
 - 🔭 Atualmente estou pondo em prática um projeto pela universidade em que utilizo séries temporais com o objetivo de prever os preços das ações do mercado financeiro.
-- 🌱 As ferramentas em processo de estudo que fazem parte das áreas de Machine Learning e Deep Learning.
+- 🔭 Desenvolvedor na Academia STEM para a criação de um software para gerenciamento e distribuição automática de processos jurídicos
+- 🌱 As ferramentas em processo de estudo utilizadas fazem parte das áreas de Machine Learning e Deep Learning.
 - 😄 Pronouns:  ele/ dele.
 
 <div>
