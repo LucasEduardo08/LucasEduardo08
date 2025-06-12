@@ -1,8 +1,8 @@
 ### Olá! ✌️ Sou Lucas Teles
 
 - 🔭 Produção de um artigo em que utilizo séries temporais e LLMS com o objetivo de realizar análise de sentimentos e relatórios para prever os preços das ações do mercado financeiro.
-- 🔭 Desenvolvedor na Academia STEM.
-- 🌱 No momento estou me aprofundando na área de Processamento de Linguagem Natural e no desenvolvimento de softwares web. 
+- 🔭 Estagiário na área de automação na empresa <a href="https://indt.org.br/o-instituto/">INDT</a>.
+- 🌱 No momento estou me aprofundando na área de Processamento de Linguagem Natural e Automatização de tarefas. 
 - 😄 Pronouns: ele/ dele.
 - 🎓 Estudande de Engenharia de Computação na <a href="https://www.uea.edu.br">Universidade do Estado do Amazonas</a>.
 - 🎓 Aluno voluntário no <a href="https://lsi-uea.tech/">Laboratório de Sistemas Inteligentes</a>.
