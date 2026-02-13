@@ -5,7 +5,6 @@
 - 🌱 No momento estou me aprofundando na área de Processamento de Linguagem Natural e Automatização de tarefas. 
 - 😄 Pronouns: ele/ dele.
 - 🎓 Estudande de Engenharia de Computação na <a href="https://www.uea.edu.br">Universidade do Estado do Amazonas</a>.
-- 🎓 Aluno voluntário no <a href="https://lsi-uea.tech/">Laboratório de Sistemas Inteligentes</a>.
 - 🎓 <a href="https://www.linkedin.com/in/lucas-eduardo-pereira-teles-211093226/">LinkedIn</a>.
 
 <div>
@@ -30,4 +29,7 @@
   <img align="center" alt="Lucas-Pytorch" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
   <img align="center" alt="Lucas-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="Lucas-Sklearn" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+  <img align="center" alt="Lucas-Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+  <img align="center" alt="Lucas-Streamlit" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" />
+  <img align="center" alt="Lucas-SQLite" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />
 </div>
