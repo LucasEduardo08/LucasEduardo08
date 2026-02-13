@@ -7,11 +7,6 @@
 - 🎓 Estudande de Engenharia de Computação na <a href="https://www.uea.edu.br">Universidade do Estado do Amazonas</a>.
 - 🎓 <a href="https://www.linkedin.com/in/lucas-eduardo-pereira-teles-211093226/">LinkedIn</a>.
 
-<div>
-  <a href="https://github.com/LucasEduardo08?tab=repositories">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LucasEduardo08&show_icons=true&theme=dark&include_all_commits=true" />
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEduardo08&layout=compact&langs_count=16&theme=dark" />
-</div>
 <div style="display : inline_block"><br>
   <p>Linguagens e Ferramentas:</p>
   <img align="center" alt="Lucas-Jn" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
